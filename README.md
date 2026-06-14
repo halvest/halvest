@@ -1,78 +1,100 @@
-<p align="center">
-  <img src="https://media4.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="Banner" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Hey there, I'm <a href="https://github.com/halvest">Hasyim Adani</a> 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020024,35:7F00FF,70:00D4FF,100:FF005C&text=DANI%20ZEAN&fontSize=54&fontColor=FFFFFF&animation=twinkling&stroke=00F5FF&strokeWidth=1&desc=NEXT.JS%20%E2%80%A2%20SUPABASE%20%E2%80%A2%20VERCEL&descSize=18&descAlignY=70" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3EF0FF&center=true&width=550&lines=Full+Stack+Web+Developer;Next.js+%26+Vite+Specialist;PHP+%26+Modern+Ecosystem;Building+Scalable+Web+Solutions" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Modern+Web+Development;Clean+UI+%E2%80%A2+Database-Connected+Apps+%E2%80%A2+Fast+Deployment;Building+with+Next.js+%2B+Supabase+%2B+Vercel" />
 
-<p align="center">
-  <a href="https://twitter.com/danizean01"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hasyim-adani-576122269/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:danizean90@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<br />
 
----
+<a href="https://github.com/halvest">
+  <img src="https://img.shields.io/badge/GitHub-halvest-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=111827" />
+</a>
+<a href="https://www.linkedin.com/in/hasyim-adani-576122269/">
+  <img src="https://img.shields.io/badge/LinkedIn-Hasyim%20Adani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+</a>
+<a href="mailto:danizean90@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-FF005C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+</a>
 
-## 🚀 About Me  
+<br /><br />
 
-- 💻 **Full Stack Web Developer** fokus pada pengembangan aplikasi web modern dan performan.  
-- 🛠️ **Frontend:** Berpengalaman dalam membangun UI yang interaktif menggunakan **Next.js** dan **Vite (React)**.  
-- ⚙️ **Backend:** Terbiasa mengelola logika bisnis dan database menggunakan **PHP** dan ekosistem terkait.  
-- 📊 **Marketing Tech:** Memadukan keahlian *digital marketing* dengan *web development* untuk optimasi konversi (Landing Pages & Tracking).  
-- 🌱 **Learning:** Menekuni arsitektur database yang efisien dan integrasi API pihak ketiga.  
+<img src="https://komarev.com/ghpvc/?username=halvest&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<table>
+<tr>
+<td width="42%" valign="middle">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
+
+</td>
+<td width="58%" valign="middle">
+
+<h2>⚡ Modern Web Developer</h2>
+
+<p>
+Hi, I'm <b>Dani Zean</b>. I build modern web projects with a simple and focused stack:
 </p>
+
+<pre>
+Stack   : Next.js + Supabase + Vercel
+Focus   : Clean UI, responsive layout, simple flow
+Build   : Landing pages, dashboards, content websites
+Mode    : Learning • Building • Improving
+</pre>
+
+<p>
+I enjoy creating practical web experiences that connect clean frontend interfaces with database-powered features.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats  
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=halvest&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halvest&theme=radical&hide_border=true" width="48%"/>
-</p>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=nextjs" width="64" />
+<h3>Next.js</h3>
+<p>Frontend, routing, UI, pages, and web app structure.</p>
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=supabase" width="64" />
+<h3>Supabase</h3>
+<p>Database, auth, storage, and backend features.</p>
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=vercel" width="64" />
+<h3>Vercel</h3>
+<p>Preview, deployment, hosting, and production workflow.</p>
+</td>
+</tr>
+</table>
 
----
+<br />
 
-## 📌 Most Used Languages  
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,supabase,vercel,git,github,vscode" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halvest&layout=compact&theme=radical&hide_border=true" width="50%"/>
-</p>
+<br /><br />
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=halvest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF005C&text_color=FFFFFF" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=halvest&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF005C&currStreakLabel=00F5FF" width="49%" />
 
-## 🔥 Contribution Graph  
+<br /><br />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halvest&theme=radical"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF005C,35:7F00FF,70:00D4FF,100:020024&height=110&section=footer" width="100%" />
 
----
-
-## 🌐 Let's Connect!  
-
-<p align="center">
-  <a href="https://twitter.com/danizean01"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hasyim-adani-576122269/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:danizean90@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
